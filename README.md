@@ -12,6 +12,7 @@ Inspired from [FlagKit](https://github.com/madebybowtie/FlagKit) & [react-native
 
 ```
 npm install --save react-native-flagkit
+npm install --save react-native-svg
 ```
 
 react-native-flagkit depends on [react-native-svg](https://github.com/react-native-community/react-native-svg).
