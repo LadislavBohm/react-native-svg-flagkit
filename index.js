@@ -1,4 +1,2 @@
-import Flag from './Flag'
-export {
-    Flag,
-}
+import Flag from "./Flag";
+export { Flag };

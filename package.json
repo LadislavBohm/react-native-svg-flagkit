@@ -1,6 +1,6 @@
 {
   "name": "@ladislavbohm/react-native-flagkit",
-  "version": "0.0.6",
+  "version": "0.0.8",
   "description": "Flags for react-native",
   "main": "index.js",
   "keywords": [
@@ -17,7 +17,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "peerDependencies": {
-    "react-native-svg": "*"
+    "react-native-svg": "^13.14.0"
   },
   "repository": {
     "type": "git",
