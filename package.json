@@ -1,6 +1,6 @@
 {
-  "name": "react-native-flagkit",
-  "version": "0.0.2",
+  "name": "@ladislavbohm/react-native-flagkit",
+  "version": "0.0.6",
   "description": "Flags for react-native",
   "main": "index.js",
   "keywords": [
@@ -20,5 +20,8 @@
     "react-native-svg": "*"
   },
   "author": "Frikan Erwe",
+  "contributors": [
+    "Ladislav Böhm"
+  ],
   "license": "MIT"
 }
